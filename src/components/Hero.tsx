@@ -32,7 +32,7 @@ export function Hero() {
                 </span>
               </h2>
               <p className="text-gray-600 text-lg md:text-xl max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-                AI Engineer specializing in Machine Learning, Computer Vision, Generative AI, and Agentic AI systems. Experienced in building intelligent automation solutions, LLM-based applications, and scalable AI products.
+                Results-driven AI Engineer specializing in Machine Learning, Computer Vision, Generative AI, and Agentic AI systems. Proven expertise in architecting intelligent automation solutions, advanced LLM applications, and scalable AI products that drive business innovation.
               </p>
             </motion.div>
 
@@ -90,8 +90,8 @@ export function Hero() {
               transition={{ repeat: Infinity, duration: 4, ease: "easeInOut" }}
               className="absolute top-2 right-0 lg:-right-4 glass px-4 py-2 sm:px-6 sm:py-3 rounded-full z-20 shadow-lg border-white"
             >
-              <span className="text-[var(--color-primary)] font-bold text-sm sm:text-base">3+ Years</span>
-              <span className="block text-[10px] sm:text-xs text-gray-500 font-medium">Experience</span>
+              <span className="text-[var(--color-primary)] font-bold text-sm sm:text-base">Top Rated</span>
+              <span className="block text-[10px] sm:text-xs text-gray-500 font-medium">Job Success</span>
             </motion.div>
 
             <motion.div
